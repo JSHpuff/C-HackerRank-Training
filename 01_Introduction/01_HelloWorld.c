@@ -22,5 +22,6 @@ int main() {
     */
     scanf("%[^\n]%*c", s);  // Example: s = Life is beautiful
     printf("Hello, World!\n%s", s);
+    
     return 0;
 }
