@@ -1,5 +1,15 @@
 #include <stdio.h>
 
+/*  Sample input
+    10 4
+    4.0 2.0
+*/
+
+/*  Sample output
+    14 6
+    6.0 2.0
+*/
+
 int main(){
     int int1, int2;
     float float1, float2;
